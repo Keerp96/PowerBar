@@ -1,0 +1,12 @@
+## Interface: 20400
+## Title: PowerBar
+## Notes: Compact, awesomtastic energy bar for rogues
+## Author: Antiarc
+## OptionalDeps: Ace3, LibSharedMedia-3.0, LibBars-1.0
+## X-Embeds: Ace3, LibSharedMedia-3.0, LibBars-1.0
+## SavedVariables: PowerBarDB
+
+embeds.xml
+Libs\LibBars-1.0\lib.xml
+Libs\LibSharedMedia-3.0\lib.xml
+PowerBar.lua
